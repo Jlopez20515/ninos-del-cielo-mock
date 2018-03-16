@@ -1,0 +1,15 @@
+.container img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+body {
+  background-color: #3B9BF7;
+}
+
+}
+h1 {
+  color: White;
+}
