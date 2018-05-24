@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+.main-header {
+  padding-top: 270px;
+  /*height: 850px;*/
+  background:
+              /*linear-gradient(#ffa949, transparent 90%),*/
+              /*linear-gradient(0deg, #fff), transparent)*/
+              #3B9BF7 url('../img/blue.jpg') no-repeat center;
+  background-size: cover;
+
+  /*background-image: linear-gradient(to top, steelblue, darkslateblue 90%); optional*/
+}
