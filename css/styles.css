@@ -4,6 +4,7 @@
 
 .main-header {
   background: #3B9BF7 url('../img/blue.jpg');
+  width: 100%;
   background-size: cover;
   padding: 10px;
 }
@@ -17,11 +18,15 @@
 }
 
 body {
-  background-color: red;
+  background-color: dodgerblue;
 }
 
 h1 {
   padding-top: 10px;
+  text-align: center;
+}
+
+h2 {
   text-align: center;
 }
 
@@ -37,4 +42,8 @@ hr {
   color: white;
 }
 
-/* Navigation Bar */
+/* styles */
+
+.primary-content {
+  background-color: dodgerblue;
+}
