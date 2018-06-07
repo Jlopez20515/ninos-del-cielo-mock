@@ -47,3 +47,14 @@ hr {
 .primary-content {
   background-color: dodgerblue;
 }
+
+/*Bootstrap Icons*/
+ion-icon {
+  border: 2px solid black;
+  border-radius: 100px;
+}
+
+#footerTop {
+  text-align: center;
+  background-color: red;
+}
